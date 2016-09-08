@@ -19,6 +19,7 @@ public class Test {
 		long estimatedTime = System.nanoTime() - startTime;
 		System.out.println(estimatedTime);
 		Thread.sleep(1);
+		System.out.println("ss  dsf ".replace(" ", "_"));
 	}
 	
 	static class ThrowTask extends TimerTask{
