@@ -1,6 +1,6 @@
 package com.courence.demo.pattern.strategy;
 
-public class MiniDuckSimulator {
+public class Main {
  
 	public static void main(String[] args) {
  
